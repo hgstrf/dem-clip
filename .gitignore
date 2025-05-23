@@ -36,15 +36,17 @@ venv.bak/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# VSCode and PyCharm
+# VSCode and IDE settings
 .vscode/
 .idea/
 
-# macOS
+# macOS system files
 .DS_Store
 
-# Logs
+# Logs and local output
 *.log
+*.aux
+*.out
 
-# Rasterio/GDAL specific
+# Rasterio/GDAL-specific
 *.aux.xml
