@@ -1,6 +1,6 @@
 # dem-clip
 
-📍 A lightweight Python tool to clip Digital Elevation Models (DEMs) using a shapefile or GeoJSON polygon.
+A lightweight and straightforward tool to clip Digital Elevation Models (DEMs) using a shapefile or GeoJSON polygon.
 
 ## Features
 - Clip elevation GeoTIFFs using an AOI polygon
